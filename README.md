@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clhVEGAS
-- 👀 I’m interested in ... creating intricate social media platforms to can help facilitate change in the world.
-- 🌱 I’m currently learning ... JavaScript, Python, SQL, Node.js, React.js / React-Native
+- 👀 I’m interested in ... creating intricate social media platforms to help facilitate change in the world.
+- 🌱 I’m currently learning ... JavaScript, Python, SQL, Node.js, React.js / React-Native, & C++
 - 📫 How to reach me ... @ my portfolio website, cyhoward.com
 
 <!---
